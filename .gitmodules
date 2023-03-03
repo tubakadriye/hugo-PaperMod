@@ -1,0 +1,4 @@
+# this file will make it easier to update in github. include papermod theme. 
+[submodule "themes/PaperMod"]
+    path = themes/PaperMod # path on my working directory
+    url = "git@github.com/tubakadriye/hugo-PaperMod.git"
